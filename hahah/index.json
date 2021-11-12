@@ -1,8 +1,8 @@
 {
-  "title": "How do you turn this on2?",
-  "description": "Scenario 1",
+  "title": "New Scenario Template",
+  "description": "A simple scenario example.",
   "difficulty": "Beginner",
-  "time": "30",
+  "time": "3 minutes",
   "details": {
     "steps": [
       {
@@ -16,27 +16,20 @@
       {
         "title": "Step 3",
         "text": "step3.md"
-      },
-      {
-        "title": "Step 4",
-        "text": "step4.md"
-      },
-      {
-        "title": "Step 5",
-        "text": "step5.md"
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "code": "foreground.sh"
     },
     "finish": {
       "text": "finish.md"
     }
   },
   "environment": {
-    "uilayout": "editor-terminal"
+    "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "ubuntu:1804"
+    "imageid": "ubuntu:2004"
   }
 }
