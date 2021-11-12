@@ -1,5 +1,5 @@
 {
-  "title": "Scenario 1",
+  "title": "How do you turn this on2?",
   "description": "Scenario 1",
   "difficulty": "Beginner",
   "time": "30",
@@ -37,6 +37,6 @@
     "uilayout": "editor-terminal"
   },
   "backend": {
-    "imageid": "ubuntu:2004"
+    "imageid": "ubuntu:1804"
   }
 }
