@@ -10,12 +10,14 @@ There are two type of attacks which are internal attack and external attack. For
 - Installing or running unknown application or script
 - Stealing data from the server or database
 - Changing the setting of the server or system
+
 These are the attack did by the authorized account in the system.
 
 For external attack likes:
 - Brute-force atack
 - DDos
 - Zero-day attack
+
 These are the attack did from the internet who is not authorized from the organization.
 
 
