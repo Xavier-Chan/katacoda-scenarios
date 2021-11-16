@@ -10,6 +10,7 @@ Click this button to open the docker-compose file:
 
 Enter the template into the docker-compose file:
 
+```sh
 version: '3.2'
 services:
     mysql-server:
@@ -36,6 +37,7 @@ services:
         WORDPRESS_DB_PASSWORD: secret
       depends_on:
         - mysql-server
+```{{copy}}
 The docker-compose file specify the port, environment configuration and image for each container. To run docker compose, run the following command:
 
 `docker-compose up -d`{{execute}}
