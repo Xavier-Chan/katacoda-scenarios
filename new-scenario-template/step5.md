@@ -9,12 +9,16 @@ After created the dashboard, we need to create the collector to collect the the 
 
 3. Return to the contailer bash and execute my2.sql by root user by using the password we set in step 1.<br>
 `docker exec -it mysql/bin/sh`{{execute}}
+
 `mysql < my2.sql -uroot -p12345`{{execute}}
 
 4. Login to MySQL to check the collector.<br>
 `mysql -uroot -p12345`{{execute}}
+
 `show database;`{{execute}}
+
 `use my2`{{execute}}
+
 `show tables;`{{execute}}
 
 5. You can study the container by using different command.<br>
