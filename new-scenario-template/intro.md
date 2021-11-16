@@ -1,31 +1,31 @@
-# New Scenario Template (Your Title Here)
+# Abstract
 
-This is a mostly empty template. To create your own first scenario, duplicate this in your own repo, then modify it as needed.
+In this scenario, you will learn how to do auditing, monitoring and alerting using MySQL and Grafana.
 
-## Description
+## Reason of auditing, monitoring and alerting
 
-2-3 sentences on what the scenario covers, illustrates, and teaches. What technology is used, and what task will the learner have accomplished by the end?
+Auditing, monitoring and alerting are very important to the server and system. Once there are unusual data flow, metric or logs collected, the security team can react to the issue, attack or threats as soon as possible.
 
-Importantly, why does this matter? What can this technology, tool, or approach help you accomplish? Briefly communicate the real-world application(s) of this skill.
+There are two type of attacks which are internal attack and external attack. For internal attack likes:
+-Installing or running unknown application or script
+-Stealing data from the server or database
+-Changing the setting of the server or system
+These are the attack did by the authorized account in the system.
 
-## Learning Objective
+For external attack likes:
+-Brute-force atack
+-DDos
+-Zero-day attack
+These are the attack did from the internet who is not authorized from the organization.
 
-- 3-4 bullets
-- of what you
-- will learn
 
-## Prerequisite Skills
+## About Grafana
 
-Define the target audience here, and list any prerequisite skills. For example:
+Grafana is an open source solution for running data analytics, pulling up metrics that make sense of the massive amount of data & to monitor our apps with the help of cool customizable dashboards.
 
-This is for software developers with prior experience using Jenkins to deploy web applications.
+Grafana takes care of all the analytics. User can easily query, visualize, set up alerts, understand the data with the help of metrics.
 
-## Table of Contents
+There is dashboard that can easily display data in form of different graph like number, bar chart or geo map.
 
-If the scenario is part of a set of related scenarios, the table of contents will appear here as a bulleted list of all the scenario titles, with links to each other.
-
-- Scenario A
-- Scenario B
-- Scenario C
-
+Alerts can be set up and triggered whenever an anticipated scenario occurs to detect issue or attack immediately.
 
