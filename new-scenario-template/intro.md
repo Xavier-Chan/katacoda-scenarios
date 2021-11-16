@@ -2,7 +2,7 @@
 
 In this scenario, you will learn how to do auditing, monitoring and alerting using MySQL and Grafana.
 
-## Reason of auditing, monitoring and alerting
+## Reason of Auditing, Monitoring and Alerting
 
 Auditing, monitoring and alerting are very important to the server and system. Once there are unusual data flow, metric or logs collected, the security team can react to the issue, attack or threats as soon as possible.
 
