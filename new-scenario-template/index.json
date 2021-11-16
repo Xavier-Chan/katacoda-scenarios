@@ -1,8 +1,8 @@
 {
   "title": "Alert rules help detect respond incident",
   "description": "Alerting and Detecting insider / external attacks",
-  "difficulty": "Advanced",
-  "time": "< 30 mins",
+  "difficulty": "Beginner",
+  "time": "10 mins",
   "details": {
     "steps": [
       {
