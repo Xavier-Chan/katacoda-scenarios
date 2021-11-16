@@ -5,7 +5,7 @@ Click the new Dashboard link on the right side of the Dashboard picker. You now 
 
 The image above shows you the top header for a Dashboard.
 
-![GrafanaToolBar](./step2-1.png)
+![GrafanaToolBar](./assets/step2-1.png)
 1. Side menubar toggle: This toggles the side menu, allowing you to focus on the data presented in the dashboard. The side menu provides access to features unrelated to a Dashboard such as Users, Organizations, and Data Sources.
 2. Dashboard dropdown: This dropdown shows you which Dashboard you are currently viewing, and allows you to easily switch to a new Dashboard. From here you can also create a new Dashboard or folder, import existing Dashboards, and manage Dashboard playlists.
 3. Add Panel: Adds a new panel to the current Dashboard.
@@ -24,8 +24,8 @@ You can set up the dashboard by creating different data analysis or import usful
 
 In the example below, it have shown the total number of post. So, if any new po released can be monitor here directly with others data. Not only the total number of posts, the user activity can be monitor here by create panel generate log informations. Therefore, if there are any invaild users existed can be spot immediately.
 
-![GrafanaToolBar](./step2-2.png)
+![GrafanaToolBar](./assets/step2-2.png)
 
 At last, press `Apply` to put it in the dashboard.
 
-![GrafanaToolBar](./step2-3.png)
+![GrafanaToolBar](./assets/step2-3.png)
