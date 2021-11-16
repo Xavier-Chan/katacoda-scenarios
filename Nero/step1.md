@@ -38,6 +38,7 @@ services:
       depends_on:
         - mysql-server
 ```{{copy}}
+
 The docker-compose file specify the port, environment configuration and image for each container. To run docker compose, run the following command:
 
 `docker-compose up -d`{{execute}}
